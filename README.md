@@ -1,6 +1,6 @@
 # Vincent-Valladolid
 # 💫 About Me:
-I am a 1st year at Bicol University, passionate about exploring the realms of coding.
+I am a 2ND year at Bicol University, passionate about exploring the realms of coding.
 
 
 ## 🌐 Socials:
