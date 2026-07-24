@@ -1,6 +1,6 @@
 # Hi! , I'm Vincent Valladolid 👋
 
-I'm a 3nd-year student at Bicol University, passionate about building clean, functional, and user-centric web applications. I enjoy exploring modern web technologies and turning ideas into reality through code.
+I'm a 3rd-year student at Bicol University, passionate about building clean, functional, and user-centric web applications. I enjoy exploring modern web technologies and turning ideas into reality through code.
 
 ---
 
